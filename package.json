@@ -1,0 +1,23 @@
+{
+  "name": "with-express-practice",
+  "version": "1.0.0",
+  "description": "Practicing node with express",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AwesomenessXP/node-with-express-practice.git"
+  },
+  "author": "haskmoney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AwesomenessXP/node-with-express-practice/issues"
+  },
+  "homepage": "https://github.com/AwesomenessXP/node-with-express-practice#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
